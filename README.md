@@ -35,6 +35,6 @@ Goal: build consistency, prep for placements, target 15+ LPA roles.
 - **Days 81–100:** Mixed practice, mock interviews, project polish, open-source PRs
 
 ## Resources
-- LeetCode / GeeksforGeeks — daily problems
+- LeetCode / GeeksforGeeks / HackerRank — daily problems
 - Striver's SDE Sheet / NeetCode — structured problem lists & explanations
 - Git basics — add, commit, push, branch
